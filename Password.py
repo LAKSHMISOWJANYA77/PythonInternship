@@ -1,4 +1,4 @@
-#Password Generator
+#Random Password Generator
 print('Enter length of the password')
 N=int(input())
 import string
